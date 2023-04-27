@@ -1,0 +1,16 @@
+<APIProxy revision="3" name="Mock-Json">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1680137471793</CreatedAt>
+    <LastModifiedAt>1680137471793</LastModifiedAt>
+    <BasePaths>/mock-json</BasePaths>
+    <Policies>
+        <Policy>JSON-to-XML-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
